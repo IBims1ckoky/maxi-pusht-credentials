@@ -1,5 +1,7 @@
 body {
     padding-top: 200px;
+    background-image: url('background.png');
+    background-repeat: no-repeat;
 }
 
 .u-section-1 .u-sheet-1 {
