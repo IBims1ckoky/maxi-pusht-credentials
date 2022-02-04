@@ -1,0 +1,25 @@
+body {
+    padding-top: 200px;
+}
+
+.u-section-1 .u-sheet-1 {
+    min-height: 585px;
+  }
+  
+  .u-section-1 .u-text-1 {
+    font-size: 4.5rem;
+    width: 785px;
+    margin: 33px auto 0;
+  }
+  
+  .u-section-1 .u-image-1 {
+    width: 323px;
+    height: 293px;
+    margin: 46px auto 0 547px;
+  }
+  
+  .u-section-1 .u-text-2 {
+    font-size: 6rem;
+    font-weight: normal;
+    margin: -224px 222px 60px 906px;
+  }
